@@ -1,2 +1,2 @@
 # web-sederhana
-repository membuat website sederhana menggunakan hmtl and css
+repository membuat website sederhana menggunakan html and css
